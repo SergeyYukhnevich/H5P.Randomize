@@ -1,0 +1,16 @@
+{
+  "machineName": "H5P.Randomize",
+  "title": "Randomize",
+  "description": "Randomize contains helper function relevant for randomizing array of elements.",
+  "license": "MIT",
+  "author": "Sergey Yukhnevich",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "runnable": 0,
+  "preloadedJs": [
+    {
+      "path": "randomize.js"
+    }
+  ]
+}
